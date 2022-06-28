@@ -1,5 +1,6 @@
 out/
 .idea/
 /out/production/
-/out/production/Java 4/
+/out/production/Java
+target/
 
